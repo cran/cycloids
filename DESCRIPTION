@@ -2,8 +2,8 @@ Package: cycloids
 Type: Package
 Title: Tools for Calculating Hypocycloids, Epicycloids, Hypotrochoids,
         and Epitrochoids
-Version: 1.0.1
-Date: 2023-04-30
+Version: 1.0.2
+Date: 2023-08-29
 Author: Peter Biber
 Maintainer: Peter Biber <castor.fiber@gmx.de>
 Description: Tools for calculating coordinate representations of
@@ -15,6 +15,6 @@ License: GPL-3
 Collate: 'ZFunktionen.r'
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2023-04-30 15:47:44 UTC; casto
+Packaged: 2023-08-29 10:05:30 UTC; casto
 Repository: CRAN
-Date/Publication: 2023-04-30 16:20:05 UTC
+Date/Publication: 2023-08-29 10:30:02 UTC

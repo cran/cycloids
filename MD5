@@ -1,10 +1,10 @@
-fc171902f223c44556f3cc3c1fdc3505 *DESCRIPTION
+839da032fd35bb5a8125eb89b961c50e *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
-64986ebc6217fe0bc8b8ff5f6768a9bb *NEWS.md
+57186c46b72e5751c38b20eaf0ba32d2 *NEWS.md
 79955f507ebb16e27e29f6d8239d15c6 *R/ZFunktionen.r
 a7a34d2328d7c5f5c21ba62e2b005df7 *demo/00Index
 3febe659847bb68f725bfe90852296ac *demo/cycloids.R
-01e886fb4618e50c9ff9c8240deb9664 *man/cycloids-package.Rd
+d70f185afdfeb9568bf99b996e2904b8 *man/cycloids-package.Rd
 6d12cd4a23c62a63338ea17441470efe *man/figures/Figure1.png
 57e0cb2daa13754a12d8d774cdde7654 *man/figures/Figure2.png
 b98ef659cc82d96c93991b40dcc470cc *man/ggT.Rd
